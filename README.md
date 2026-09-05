@@ -35,6 +35,63 @@ A comprehensive collection of **free API tools** for converting PDFs to videos a
 
 ---
 
+## 🌐 Free Advanced APIs (Comprehensive Collection)
+
+### 🤖 Artificial Intelligence & NLP
+
+| API | Description | Free Tier | Link |
+|-----|-------------|-----------|------|
+| **OpenAI (ChatGPT, DALL-E, Whisper)** | AI-powered text, image, and speech models | Limited usage | [OpenAI API](https://openai.com/api/) |
+| **Hugging Face Inference API** | Access to pretrained NLP models | Free tier available | [Hugging Face](https://huggingface.co/inference-api) |
+| **DeepAI** | Text and image processing endpoints | Free tier with limits | [DeepAI](https://deepai.org/api) |
+
+### 📊 Data & Search
+
+| API | Description | Free Tier | Link |
+|-----|-------------|-----------|------|
+| **OpenWeatherMap** | Real-time weather data | Generous free tier | [OpenWeatherMap API](https://openweathermap.org/api) |
+| **NewsAPI** | News headlines and article search | Free plan available | [NewsAPI](https://newsapi.org/) |
+| **Google Books API** | Access to millions of book records | Unlimited | [Google Books API](https://developers.google.com/books) |
+
+### 🛠️ Productivity & Collaboration
+
+| API | Description | Free Tier | Link |
+|-----|-------------|-----------|------|
+| **Notion API** | Integration and automation with Notion | Free to use | [Notion API](https://developers.notion.com/) |
+| **Trello API** | Access to boards, cards, and lists | Free tier | [Trello API](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/) |
+| **Airtable API** | Database automation and integration | Free with storage limits | [Airtable API](https://airtable.com/api) |
+
+### 💰 Finance & Cryptocurrency
+
+| API | Description | Free Tier | Link |
+|-----|-------------|-----------|------|
+| **CoinGecko API** | Real-time cryptocurrency data | Completely free | [CoinGecko API](https://www.coingecko.com/en/api) |
+| **Alpha Vantage** | Stock market and forex data | Free tier available | [Alpha Vantage](https://www.alphavantage.co/) |
+
+### 🖼️ Image & Media
+
+| API | Description | Free Tier | Link |
+|-----|-------------|-----------|------|
+| **Pexels API** | Millions of free stock photos | Unlimited | [Pexels API](https://www.pexels.com/api/) |
+| **Unsplash API** | High-quality free images | Unlimited | [Unsplash API](https://unsplash.com/developers) |
+| **Remove.bg** | Background removal for images | Free monthly allowance | [Remove.bg API](https://www.remove.bg/api) |
+
+### 🗺️ Maps & Geolocation
+
+| API | Description | Free Tier | Link |
+|-----|-------------|-----------|------|
+| **Mapbox** | Map tiles and geolocation services | Free tier with quota | [Mapbox API](https://www.mapbox.com/developers) |
+| **Positionstack** | Forward and reverse geocoding | 25,000 requests/month | [Positionstack](https://positionstack.com/) |
+| **IPinfo.io** | IP geolocation information | Free tier | [IPinfo.io](https://ipinfo.io/) |
+
+### 🎭 Miscellaneous
+
+| API | Description | Free Tier | Link |
+|-----|-------------|-----------|------|
+| **JokeAPI** | Random jokes and humor content | Unlimited free | [JokeAPI](https://jokeapi.dev/) |
+
+---
+
 ## 🔄 Recommended Workflow
 
 1. **Extract PDF Content**
@@ -130,6 +187,15 @@ Choose your stack based on your needs:
 - **Fastest Setup**: PDF.js + TTSMP3 + Shotstack (minimal signup)
 - **Best Quality**: PDF.co + Google Cloud TTS + Shotstack (requires accounts)
 - **Most Affordable**: PDF.js + gTTS + Shotstack (lowest cost)
+
+---
+
+## ✅ Tips for Using Free APIs
+
+- Check **rate limits** and fair usage policies for each API
+- Most require **API key registration**
+- Usage beyond the free tier is typically paid
+- Always review the **terms of service** for each API
 
 ---
 
